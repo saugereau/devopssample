@@ -50,7 +50,7 @@ Resources:
             ContainerDefinitions:
                 - Name: devopssample
                   Essential: true
-                  Image: saugereau/devopssample:1.0.0
+                  Image: saugereau/devopssample:latest
                   Memory: 128
                   PortMappings:
                     - ContainerPort: 80

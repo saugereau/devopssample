@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -f docker/Dockerfile . -t saugereau/devopssample:1.0.0
+docker build -f Dockerfile . -t saugereau/devopssample:1.0.0
